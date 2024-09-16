@@ -70,5 +70,3 @@ Here are some of the questions I answered with SQL queries:
 5. **Key Questions**: Basic questions that the analysis addresses.
 6. **How to Use**: Instructions for how someone can use your project, like cloning the repository and running the queries.
 7. **Conclusion**: A quick summary of what you learned.
-
-This `README.md` is easy to understand, and it's suitable for someone who is new to data analysis projects. You can copy and adjust this as needed for your GitHub repository! Let me know if you need any further help!
